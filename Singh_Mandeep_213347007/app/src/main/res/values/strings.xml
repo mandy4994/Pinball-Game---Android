@@ -1,0 +1,51 @@
+<resources>
+    <string name="app_name">Singh_Mandeep_213347007</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="game_name">PinBall</string>
+    <string name="new_game">New Game</string>
+    <string name="score_list">Score List</string>
+    <string name="about">About</string>
+    <string name="exit">Exit</string>
+    <string name="cnt_men_easy">Easy</string>
+    <string name="cnt_men_med">Medium</string>
+    <string name="cnt_men_hard">Hard</string>
+    <string name="title_activity_game">PinBall Game</string>
+    <string name="title_activity_about">About Me</string>
+    <string name="about_title">About Me</string>
+    <string name="about_desc">I\'m Mandeep Singh studing Bachelors of IT at Deakin University. This app is a part of my project for Android Programming Unit</string>
+    <string name="reset">Reset</string>
+    <string name="exit_menu">Exit To Menu</string>
+    <string name="select_difficulty">Select Difficulty</string>
+    <string name="create">Create</string>
+    <string name="title_activity_select_difficulty">Select Difficulty</string>
+    <string-array name="difficulties">
+        <item>Easy</item>
+        <item>Medium</item>
+        <item>Hard</item>
+    </string-array>
+    <string name="title_activity_score_list">ScoreList</string>
+
+    <string-array name="levels_array">
+        <item>Easy</item>
+        <item>Medium</item>
+        <item>Hard</item>
+    </string-array>
+
+    <string name="pin_ball_menu_title">Pin Ball</string>
+    <string name="pin_ball_menu_btn1">Continue</string>
+    <string name="pin_ball_menu_btn2">New Game</string>
+    <string name="pin_ball_menu_btn3">Score List</string>
+    <string name="pin_ball_menu_btn4">About</string>
+    <string name="pin_ball_menu_btn5">Exit</string>
+    <string name="pin_ball_game_title">Coming Soon</string>
+
+    <string name="pin_ball_game_mbtn1">Reset</string>
+    <string name="pin_ball_game_mbtn2">Exit to Menu</string>
+    <string name="pin_ball_game_mbtn3">Select difficulty</string>
+    <string name="title_activity_score">ScoreActivity</string>
+    <string name="bar_width_offset">bar_width</string>
+    <string name="ball_speed_offset">ball_speed</string>
+    <string name="name">Player</string>
+</resources>

@@ -1,0 +1,21 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context="com.ass1.mandeep.singh_mandeep_213347007.GameActivity">
+    <item
+        android:id="@+id/reset"
+        android:orderInCategory="100"
+        android:title="@string/pin_ball_game_mbtn1"
+        app:showAsAction="never" />
+    <item
+        android:id="@+id/exit"
+        android:orderInCategory="100"
+        android:title="@string/pin_ball_game_mbtn2"
+        app:showAsAction="never" />
+    <item
+        android:id="@+id/level"
+        android:orderInCategory="100"
+        android:title="@string/pin_ball_game_mbtn3"
+        app:showAsAction="never" />
+
+</menu>

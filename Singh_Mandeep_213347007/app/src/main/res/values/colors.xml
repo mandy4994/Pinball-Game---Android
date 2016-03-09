@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="color_button">#ff7d7d7d</color>
+    <color name="color_title">#ffeee905</color>
+    <color name="color_bg">#ff84b14d</color>
+    <color name="pin_ball_menu_background">#7b9a63</color>
+    <color name="pin_ball_menu_text">#e7dd3f</color>
+    <color name="pin_ball_menu_btn_background">#394942</color>
+    <color name="pin_ball_menu_btn_text">#ffffff</color>
+</resources>

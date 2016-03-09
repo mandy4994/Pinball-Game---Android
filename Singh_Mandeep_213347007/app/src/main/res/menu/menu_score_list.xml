@@ -1,0 +1,10 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context="com.ass1.mandeep.singh_mandeep_213347007.ScoreList">
+    <item
+        android:id="@+id/scoreExit"
+        android:orderInCategory="100"
+        app:showAsAction="always"
+        android:title="@string/pin_ball_game_mbtn2" />
+</menu>

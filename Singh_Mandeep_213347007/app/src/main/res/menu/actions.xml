@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/cnt_mnu_easy"
+        android:title="@string/cnt_men_easy"
+        />
+
+    <item
+        android:id="@+id/cnt_mnu_med"
+        android:title="@string/cnt_men_med"
+        />
+
+    <item
+        android:id="@+id/cnt_mnu_hard"
+        android:title="@string/cnt_men_hard"
+        />
+</menu>
